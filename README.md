@@ -11,17 +11,21 @@
 ## Página inicial
 <img src="PowerBI/previews/1_inicio.jpg">
 
-## Tráfego Orgânico
+## Tráfego Orgânico - Players 1 e 2
 <img src="PowerBI/previews/2_traf_organico.jpg">
+<img src="PowerBI/previews/2_traf_organico_2.jpg">
 
-## Palavras-chave Orgânicas
+## Palavras-chave Orgânicas - Players 1 e 2
 <img src="PowerBI/previews/3_plv_organicas.jpg">
+<img src="PowerBI/previews/3_plv_organicas_2.jpg">
 
-## Custo do Tráfego Orgânico
+## Custo do Tráfego Orgânico - Players 1 e 2
 <img src="PowerBI/previews/4_traffic_cost.jpg">
+<img src="PowerBI/previews/4_traffic_cost_2.jpg">
 
-## Tráfego Pago
+## Tráfego Pago - Players 1 e 2
 <img src="PowerBI/previews/5_ad_traffic.jpg">
+<img src="PowerBI/previews/5_ad_traffic_2.jpg">
 
 ## Participação no Mercado
 <img src="PowerBI/previews/6_prt_mercado.jpg">
