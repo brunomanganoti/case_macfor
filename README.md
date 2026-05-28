@@ -3,6 +3,13 @@
 * O objetivo deste projeto foi realizar uma análise da performance do setor de marketing do Player 1, comparando seus resultados com os de seus principais concorrentes. 
 * Além da análise comparativa, buscou-se identificar e justificar os fatores responsáveis pela queda de faturamento apresentada pelo Player 1 com base nos dados fornecidos.
 
+## Métricas Analisadas
+* A análise foi desenvolvida com foco em indicadores de desempenho do marketing digital, como métricas de:
+    - Tráfego orgânico;
+    - Quantidade de palavras-chave orgânicas;
+    - Custo estimado do tráfego orgânico;
+    - Tráfego pago.
+
 ## Dashboard
 * O dashboard de apresentação foi estruturado em páginas organizadas por métricas específicas do setor de marketing, facilitando a análise segmentada dos indicadores.
 * Cada página permite a comparação direta entre o cliente alvo (Player 1) e seus concorrentes.
